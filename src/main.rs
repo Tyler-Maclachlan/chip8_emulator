@@ -8,7 +8,7 @@ use std::{
     time::{Duration, Instant},
 };
 
-use chip8::Chip8; // your Chip8 struct
+use chip8::Chip8;
 
 mod chip8;
 mod instruction;
